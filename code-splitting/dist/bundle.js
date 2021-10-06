@@ -403,7 +403,7 @@ module.exports = function (list, options) {
 var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(4);
 exports = ___CSS_LOADER_API_IMPORT___(false);
 // Module
-exports.push([module.i, "p {\n  color : red;\n}", ""]);
+exports.push([module.i, "p {\r\n  color : red;\r\n}", ""]);
 // Exports
 module.exports = exports;
 
